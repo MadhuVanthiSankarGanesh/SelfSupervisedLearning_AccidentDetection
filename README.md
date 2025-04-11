@@ -105,7 +105,7 @@ enhanced_vit_efficientnet_final.pth
 - Exploring **unsupervised contrastive learning**
 
 ## Contributors
-[Your Name]
+Madhu Vanthi Sankar Ganesh
 
 ## License
 This project is open-source under the **MIT License**.
